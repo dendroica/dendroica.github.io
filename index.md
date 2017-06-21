@@ -1,4 +1,4 @@
-# Welcome to my new interface
+# My newest window to the world
 
 I'm new to github, so I'm just learning how I want to use this space.
 
