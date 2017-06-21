@@ -1,9 +1,6 @@
-### Trying out Github Pages
+# Welcome to my new interface
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm new to github, so I'm just learning how I want to use this space.
 
 ```markdown
 Syntax highlighted code block
