@@ -1,2 +1,3 @@
 # dendroica.github.io
-web test
+Git Bash
+main branch: run "quarto publish gh-pages"
