@@ -1,5 +1,5 @@
 ---
-title: "dendroica.github.io new page"
+title: "bird v. fish"
 listing:
   contents: posts
   sort: "date desc"
